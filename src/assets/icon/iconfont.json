@@ -1,0 +1,23 @@
+{
+  "id": "1137792",
+  "name": "悦诗风吟微信",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9186714",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "14055574",
+      "name": "微信",
+      "font_class": "weixin1",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    }
+  ]
+}

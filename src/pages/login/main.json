@@ -2,11 +2,7 @@
   "navigationBarTitleText": "登录",
   "component": true,
   "usingComponents": {
-    "van-cell": "../../vant-weapp/dist/cell/index",
-    "van-tag": "../../vant-weapp/dist/tag/index",
-    "van-tab": "../../vant-weapp/dist/tab/index",
-    "van-tabs": "../../vant-weapp/dist/tabs/index",
-    "van-icon": "../../vant-weapp/dist/icon/index",
-    "van-button": "../../vant-weapp/dist/button/index"
+    "van-button": "../../vant-weapp/dist/button/index",
+    "van-icon": "../../vant-weapp/dist/icon/index"
   }
 }

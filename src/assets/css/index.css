@@ -1,0 +1,18 @@
+page {
+  height: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif;
+}
+
+@font-face {
+  font-family: 'iconfont';
+  /* project id 1137792 */
+  src: url('//at.alicdn.com/t/font_1137792_flsfu7dh6u.eot');
+  src: url('//at.alicdn.com/t/font_1137792_flsfu7dh6u.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_1137792_flsfu7dh6u.woff2') format('woff2'),
+    url('//at.alicdn.com/t/font_1137792_flsfu7dh6u.woff') format('woff'),
+    url('//at.alicdn.com/t/font_1137792_flsfu7dh6u.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_1137792_flsfu7dh6u.svg#iconfont') format('svg');
+}
